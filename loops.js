@@ -10,3 +10,10 @@ function forLoop (array) {
   }
   return array
 }
+
+function whileLoop(n) {
+  var  count = n;
+  while (countdown > 0) {
+    console.log(--countdown)
+  }
+}
