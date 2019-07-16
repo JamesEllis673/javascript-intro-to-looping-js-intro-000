@@ -13,7 +13,7 @@ function forLoop (array) {
 
 function whileLoop(n) {
   var  count = n;
-  while (countdown > 0) {
-    console.log(--countdown)
+  while (count > 0) {
+    console.log(--count)
   }
 }
