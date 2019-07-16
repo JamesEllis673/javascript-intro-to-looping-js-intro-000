@@ -6,7 +6,7 @@ function forLoop (array) {
     else {
       var add = "s"
     }
-    array.push("I am " + i + "strange loop" + add + ".")
+    array.push("I am " + i + " strange loop" + add + ".")
   }
   return array
 }
